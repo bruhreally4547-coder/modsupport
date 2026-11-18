@@ -1,0 +1,18 @@
+{
+    "Name": "Vee",
+    "Mechanic": "She will spawn a barrage of pop-up ads to block your view. Click the X button on these pop-ups to close them.",
+    "Tips": ["Just click the X"],
+    "SalvageLocation_SayVoiceLine": true,
+    "SalvageLocation_Height": 64,
+    "ReplaceVoice": true,
+    "Debut": "Dandy's World (2024)",
+    "Description": "One of the most popular Toons of Gardenview, Vee wants to make sure that she, and only she, will be in the spotlight. How will she do that, you may wonder? Why, by making sure she's the only thing you can see! She will try to advertise herself to you, so you gotta make sure that she doesn't block your view.",
+    "DevNotes": "When the animatronic skins came out, I knew immediately that Vee would be perfect for this role, as she's the one in Dandy's World with literal pop-up ads to block your view. It's just surprising that no one else thought to do this, so I went ahead and did it myself.
+
+Credit to RedChaosScrungle for the Gmod Vee Model (It's what I used for the portrait render).
+
+Credit to Tizumi for the Vee model in VRChat (it's what I used to make the different images of Vee next to the ads).
+
+Credit to BlushCrunch Studios for the character, and the ads.",
+    "VACredit": "GladOS Text-To-Speech (nimaid)"
+}

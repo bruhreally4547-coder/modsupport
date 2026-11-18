@@ -1,0 +1,10 @@
+{"DIALOGUE":
+	[
+		["Give me a moment here...", "Vee"],
+		["Alright, everything is secured. Now then.", "Vee"],
+		["We happen to be in a troubling predicament, as you can see.", "Vee"],
+		["I will manage to find my way back however, don't worry about me.", "Vee"],
+		["But, if you really need my help, I can add myself to your security system!", "Vee"],
+
+	]
+} 
